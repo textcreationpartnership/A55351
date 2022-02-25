@@ -1,0 +1,454 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The queens cabinet newly opened and the art of physick discovered; wherein you shall finde diverse rare receipts; both of physick and of chyrurgery: very profitable for all sorts of men, women, and children. Together with severall medicines, for to prevent, and for to cure the most pestilent diseases that raineth in any cattel, and that with small cost and charge. By Mr. John Ponteus.</title>
+            <author>Ponteus, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55351</idno>
+            <idno type="STC">Wing P2804D</idno>
+            <idno type="STC">ESTC R220471</idno>
+            <idno type="EEBO-CITATION">99831871</idno>
+            <idno type="PROQUEST">99831871</idno>
+            <idno type="VID">36338</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55351)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36338)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2053:07)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The queens cabinet newly opened and the art of physick discovered; wherein you shall finde diverse rare receipts; both of physick and of chyrurgery: very profitable for all sorts of men, women, and children. Together with severall medicines, for to prevent, and for to cure the most pestilent diseases that raineth in any cattel, and that with small cost and charge. By Mr. John Ponteus.</title>
+                  <author>Ponteus, John.</author>
+               </titleStmt>
+               <extent>[24] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Richard Burton, at the Horse in Smith-field,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A B⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+               <term>Veterinary medicine --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36338:1"/>
+            <pb facs="tcp:36338:1" rendition="simple:additions"/>
+            <p>THE QUEENS Cabinet Newly Opened: And the Art of Phy<g ref="char:EOLhyphen"/>ſick diſcovered; Wherein you ſhall finde diverſe Rare Receipts; both of Phyſick and of Chyrurgery: Very good and ve<g ref="char:EOLhyphen"/>ry profitable for all ſorts of Men, Women, and Children. Together with ſeverall Medicines, for to prevent, and for to cure the moſt Pe<g ref="char:EOLhyphen"/>ſtilent Diſeaſes that Raineth in any Cattel, and that with ſmall Coſt and Charges.</p>
+            <p>By Mr. <hi>John Ponteus.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Richard Burton,</hi> at the
+<hi>Horſe ſhoe</hi> in <hi>Smith-field,</hi> 1662.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:36338:2"/>
+            <pb facs="tcp:36338:2" rendition="simple:additions"/>
+            <head>THE <hi>Queens CABINET</hi> newly opened.</head>
+            <div type="part">
+               <div type="remedy">
+                  <head>The firſt Remedy is againſt the riſing of the Mother.</head>
+                  <p>TAke a quart of the ſtrongeſt and the ſtaleſt bear you can get, and nine tops of Roſemary, and as much large Mace as will weigh down nine pence, and a hand full of inward bark of night-ſhad, boile all theſe together in a Copper skellet till it comes to a pint, then ſtrain it, and drink three ſpoonfuls one after another, juſt as the fit begins to come upon you, and you ſhall finde preſent remedy.</p>
+               </div>
+               <div type="remedy">
+                  <head>For a burning, or ſcalding, or any green wound.</head>
+                  <p>Take Mutten ſuet, and ſheeps dung, and the inward bark of Elder: boile them to<g ref="char:EOLhyphen"/>gether,
+<pb facs="tcp:36338:3"/> and then ſtrain it, and then anoint the place grieved therewith, and it ſhall heal it without any ſcar.</p>
+               </div>
+               <div type="remedy">
+                  <head>For any ſoare new or old.</head>
+                  <p>Take the inward bark of an Aſh-tree, and then boile it well in a quart of ſpring water; then bath any ſore with it, three or foure times every morning &amp; evening, and then anoint it with freſh butter and flower of Brimſtone, well mixed together, and you ſhall ſee a ſpeedy cure.</p>
+               </div>
+               <div type="remedy">
+                  <head>For all aches and lame members.</head>
+                  <p>Take Rye, and Roſemary, two hand<g ref="char:EOLhyphen"/>fuls, put them into ſallet oyle and malm<g ref="char:EOLhyphen"/>ſie, of each one quart, let them boile half an houre together, then let the place greived, be anointed therewith againſt the fire: being firſt chaffed with a cloath very well, and after nointing, wrap it up in a Lambs skin, the woolle ſide inward, doe this to bed-ward, for the ſpace of three weeks together, this cured a man that could neither ſtand nor goe, <hi>pro<g ref="char:EOLhyphen"/>batum.</hi>
+                  </p>
+               </div>
+               <div type="remedy">
+                  <pb facs="tcp:36338:3" rendition="simple:additions"/>
+                  <head>For the Falling Sickneſs.</head>
+                  <p>Take the skull of a man or woman, waſh it purely clean, then dry it in the Oven, after your bread be drawn, beat it to fine powder, then boile it in poſſet drink, then let the party drink thereof Morning and Evening, or as oft as need requireth, it is an approved remedy.</p>
+               </div>
+               <div type="remedy">
+                  <head>For a Tetter or Ring-worm,</head>
+                  <p>Take half an ounce of white Copperis, deſolved in a pint of ſpring water, then waſh the Tetter therewith, and it will kill all Tetters and Ring-worms.</p>
+               </div>
+               <div type="remedy">
+                  <head>For the Rickets.</head>
+                  <p>Take a handful of the inward bark of Tammaras, and lay it in ſteep in a pint of Whitewine two or three daies, and let the diſeaſed Child drink now and then two ſpoonfuls of it at a time, and it will ſpeedily cure it.</p>
+               </div>
+               <div type="remedy">
+                  <pb facs="tcp:36338:4"/>
+                  <head>For the Pain of the Back.</head>
+                  <p>Take Sage, Roſemary, Cammomil of each of them a handful; then ſtamp them together, and frie them with the Oyl of Swallows, and then annoint your back therewith warm.</p>
+               </div>
+               <div type="remedy">
+                  <head>For ſore eyes.</head>
+                  <p>Take Eyebright-water, and waſh your eyes therewith morning and evening; it will both heal the eyes and ſtrengthen the ſight.</p>
+               </div>
+               <div type="remedy">
+                  <head>For the Cramp.</head>
+                  <p>Take your fore-finger and rub it be<g ref="char:EOLhyphen"/>tween your toes when you go to bed, then ſmell to your finger, it will take away the Cramp, and cure the Palſie.</p>
+               </div>
+               <div type="remedy">
+                  <head>For the Rhume in the Eyes.</head>
+                  <p>Take Marigold-water and waſh your eyes therewith morning and evening; it cureth the diſeaſes in the eyes, and it will take away the pain of the head.</p>
+               </div>
+               <div type="remedy">
+                  <pb facs="tcp:36338:4" rendition="simple:additions"/>
+                  <head>For a Quincy or ſwelling in the Throat.</head>
+                  <p>Take a needleful of white ſilk, and dip it in the blood of a Mouſe, and let the party ſwallow it down, and it will ſpeedily cure it.</p>
+               </div>
+               <div type="remedy">
+                  <head>For the paine or noiſe in your Eares.</head>
+                  <p>Firſt waſh your eares with White-Wine, then take a good handful of Earth-worms, and frie them with. Gooſe-greace, then ſtraine it, and drop two dropes into each eare when it is hot; and it will take away the paine and noiſe thereof.</p>
+               </div>
+               <div type="remedy">
+                  <head>For the Itch.</head>
+                  <p>Take four ounces of unſalted Butter: take Brimſtone, Cloves, Pepper, and Ginger, of each of them a pennyworth, then mix them together, and beat them to fine powder, and then anoint your joints againſt the fire, and in three times doing ſo it will cure you.</p>
+               </div>
+               <div type="remedy">
+                  <pb facs="tcp:36338:5"/>
+                  <head>For to remove a Diſeaſe from the ſtomack.</head>
+                  <p>Take a quarter of a pint of ſack, and a pennyworth of fine Treacle, then mix them together, and drink it blood warm going to bed, and in twice taking of it will cure you.</p>
+               </div>
+               <div type="remedy">
+                  <head>For a burning Feaver.</head>
+                  <p>Take two handfuls of Redmints, boile them in a quart of ſpring water, till it comes to a pint; and then ſtrain it; and put thereto four or five ſpoonfuls of white wine Vinegar, and as much Hony, boil it till it comes to a ſyrrup, take of Endive, ſuckary, of each two handfuls, boile it in a quart of ſpring water, till half be con<g ref="char:EOLhyphen"/>ſumed, take two ſpoonfulls of this, and more of the ſirrup, in the morning faſt<g ref="char:EOLhyphen"/>ing, and at any other time when you pleaſe, and the Feaver ſhall leave you, and you will recover; <hi>probat.</hi>
+                  </p>
+               </div>
+               <div type="remedy">
+                  <head>For an Ague.</head>
+                  <p>Take all the Urine the party maketh at one time, and put ſome flower into it, and knead it: and make thereof a Cake
+<pb facs="tcp:36338:5" rendition="simple:additions"/>and bake it; and when it is baked, give it to the dog of the houſe, juſt as the fit begins to come upon you, doe ſo two or three times, and the party will be well, and the dog ſick.</p>
+               </div>
+               <div type="remedy">
+                  <head>For the Gout.</head>
+                  <p>Take a handful of Mugwort ſtamped, and boyled in a pint of the beſt ſallet Oile, till the juice be conſumed, then ſtraine it, and it will make an Ointment that ſhall give ſpeedy eaſe to the Gout,
+<hi>probat.</hi>
+                  </p>
+               </div>
+               <div type="remedy">
+                  <head>For a ſore or any green wound.</head>
+                  <p>Take the coles of a Burtch tree beaten to fine powder, and put it into an wound or ſore, heales it not only perfectly, but ſpeedily.</p>
+               </div>
+               <div type="remedy">
+                  <head>For the ſpleen.</head>
+                  <p>Take the Rine of an Aſh Tree, boyled in a quart of White Wine, then drink it ſix or ſeven mornings faſting together, will cure you.</p>
+               </div>
+               <div type="remedy">
+                  <pb facs="tcp:36338:6"/>
+                  <head>For a Stich.</head>
+                  <p>Take oyle of Dil, oyle of Capers, oyle of Swallowes, of each one ounce; then mix them together, and then anoint your ſide againſt the fire when the pain is upon you; and it will take away the pain there<g ref="char:EOLhyphen"/>of.</p>
+               </div>
+               <div type="remedy">
+                  <head>For the Yellow Jaundies.</head>
+                  <p>Take a handfull of the inward barke of a Barbary tree and Gooſe dung that feeds on graſſe, and waſh the white of it, and put thereto a little Saffron; ſteepe them in Ale, and let the Patient drink it in the morning faſting; and it is a preſent reme<g ref="char:EOLhyphen"/>dy.</p>
+               </div>
+               <div type="remedy">
+                  <head>For the Scurvey.</head>
+                  <p>Chop ſmall the knotted place of a Pine tree, and boyle it well in a quart of Ale or Beere, that the ſteem may come out; and drink of it as often as you pleaſe: and it will cure the Scurvey.</p>
+               </div>
+               <div type="remedy">
+                  <pb facs="tcp:36338:6"/>
+                  <head>For the Black Jaundies.</head>
+                  <p>Take of Herbe Ambroſe, Bettony, Mug<g ref="char:EOLhyphen"/>worth, of each a handfull; three or foure Dock roots, clean pickt, waſht and ſcra<g ref="char:EOLhyphen"/>ped, ſtampe all theſe in a Morter till they be indifferent ſmall: Then take Spick<g ref="char:EOLhyphen"/>nard, Turmarick, and gallingall, of each a handfull; Stamp them in a Morter like<g ref="char:EOLhyphen"/>wiſe; then mix them together and put them into a clean cloath by themſelves, and tye them faſt with ſtrings, and then hange them in two gallands of good Ale newly ready to be tunned up, and after three or foure dayes, drink a good draught thereof every morning next your heart, &amp; faſt after it three hours, and do ſo the like when you go to bed; and you ſhall finde preſent remedy, <hi>probat.</hi>
+                  </p>
+               </div>
+               <div type="remedy">
+                  <head>For a Conſumption.</head>
+                  <p>Take three Sheeps hearts, ſlit them and take out the ſtrings and blood, and lay them in water to ſoak a night and a day, then waſh them clean and put them into a Pipkin, lay in the bottom of the Pipkin ſtalkes of Roſemary in the manner of a Gridiron, then lay the hearts on
+<pb facs="tcp:36338:7"/>them, every heart being ſtuck with three Cloves, and half a quarter of Sugar being put into every heart; then ſtop up the pipkin very cloſe with paſte, and put it in<g ref="char:EOLhyphen"/>to an oven with houſhold-bread; and when you think it is ſufficiently ſtewed take out the pipkin again; then every morning and evening take a ſpoonful of this Syrrup, and it will cure you.</p>
+               </div>
+               <div type="remedy">
+                  <head>A moſt excellent Water for a Con<g ref="char:EOLhyphen"/>ſumption.</head>
+                  <p>Take Roſewater, and Muſcadine, of each three pints, of new Milk a pottle, of groſſe Pepper one ounce, of Cinnamon one ounce, of ſliced bread a penny-loaf, the yolkes of three new laid Eggs, of Su<g ref="char:EOLhyphen"/>gar one pound; diſtil all theſe as long as any water will come; take of this water with a little beaten Pepper a draught fa<g ref="char:EOLhyphen"/>ſting, and you ſhall find it do you very much good. <hi>Probat.</hi>
+                  </p>
+               </div>
+               <div type="remedy">
+                  <pb facs="tcp:36338:7" rendition="simple:additions"/>
+                  <head>For the Cough of the Lungs.</head>
+                  <p>Take Coltsfoot, Bettony, Burnet and red Roſe leaves, of each a handful; of Comfrey roots, ſcraped and ſliced two handfuls; boyl all theſe in a gallon of ſpring-water, till it comes to a pottle; then ſtrain it, and ſet it over the fire a<g ref="char:EOLhyphen"/>gain; then take a pound of double reſi<g ref="char:EOLhyphen"/>ned Sugar, and put into it, and let it boyl over a ſoft fire about a quarter of an hour; then take it off, and put it into ſome glaſſe, and ſtop it up cloſe, and then drink ſix ſpoonfuls morning and even<g ref="char:EOLhyphen"/>ing, and at four in the afternoon; it is an approved Remedy.</p>
+               </div>
+               <div type="remedy">
+                  <head>For to take away the redneſſe of the face.</head>
+                  <p>Take the roots of white Lillies, and boile them in a quart of Spring-water, and waſh your face in the ſaid water, and it will take away the redneſſe thereof.</p>
+               </div>
+               <div type="remedy">
+                  <pb facs="tcp:36338:8"/>
+                  <head>For Hearing.</head>
+                  <p>Take four drops of the juice of Bettony, and warm it in a ſauſar, then drop it into each ear when you goe to bed, then ſtop them up with black wooll, and it will re<g ref="char:EOLhyphen"/>cover your hearing.</p>
+               </div>
+               <div type="remedy">
+                  <head>For to take away a Wen.</head>
+                  <p>Take unſlacked Lime beaten to fine powder, then mixed with black Sope, then anoint the Wen therewith, and it will take it away.</p>
+               </div>
+               <div type="remedy">
+                  <head>For the paine at the Heart or Stomach.</head>
+                  <p>Take four graines of Maſtick at evening going to bed, and it will take away the paine thereof.</p>
+               </div>
+               <div type="remedy">
+                  <head>For a Sinew ſtrain'd.</head>
+                  <p>Take Nerve oile, Pompillion, and Oyle of Exeter, of each two penniworth, then mix them together, and warm it in a ſaucer, then anoint the joint there<g ref="char:EOLhyphen"/>with, and bind it up cloſe, and it cureth.</p>
+               </div>
+               <div type="remedy">
+                  <pb facs="tcp:36338:8" rendition="simple:additions"/>
+                  <head>For the taking away Warts.</head>
+                  <p>Take Figtree-leaves and rub your Warts therewith, and bury the ſaid leaves in the ground, and the Warts will conſume away as the leaves do rot.</p>
+               </div>
+               <div type="remedy">
+                  <head>For Convulſion fits.</head>
+                  <p>Take black Cherry-water, and the Syr<g ref="char:EOLhyphen"/>rup of Violets, of each two peny worth, then mix them together; and take three or foure ſpoonfuls of it at a time, juſt as the fit begins to come upon you, and you ſhall finde preſent remedy, <hi>probatum.</hi>
+                  </p>
+               </div>
+               <div type="remedy">
+                  <head>For the Cough or ſtopping of the breath.</head>
+                  <p>Take the ſyrrup of Hyſop, the ſyrrup of Lickariſh, the ſyrrup of maiden haire, of each an ounce, and take thereof every morning a ſpoonfull or two.</p>
+               </div>
+               <div type="remedy">
+                  <head>For the Head-ache.</head>
+                  <p>Take a handfull of Speremint, and ſhred it ſmal, then grate ſome Nut-mege into it, with ſome Roſe-water, and binde it cloſe to your fore-head, and it will take away the pain thereof.</p>
+               </div>
+               <div type="remedy">
+                  <pb facs="tcp:36338:9"/>
+                  <head>For the Wormes in Children</head>
+                  <p>Take two ounces of Purſlain-ſeed, and boil it in a pint of white Wine; then give it the Childe faſting three mornings toge<g ref="char:EOLhyphen"/>ther, and it will kill the Worms.</p>
+               </div>
+               <div type="remedy">
+                  <head>For a ſore Throat.</head>
+                  <p>Take Collumbine and Cinquefoil, then ſtamp and boil them together, and ſtrain them into Milk, and drink it very warm.</p>
+               </div>
+               <div type="remedy">
+                  <head>For the pain in the Head.</head>
+                  <p>Take Aloes boyled well with the juyce of Coleworts, and made into pills, a ſcru<g ref="char:EOLhyphen"/>ple being taken at a time at night going to bed, doth moſt gallantly eaſe the head, and take away the pain thereof.</p>
+               </div>
+               <div type="remedy">
+                  <head>For the Tooth-ach.</head>
+                  <p>Take two handfuls of Wood bettony, and then boyl it in a pint of white Wine till half be conſumed, then take a ſpoon<g ref="char:EOLhyphen"/>ful of it, and keep it in your mouth, do ſo two or three times together, and if there be any worms in them they die, and it ſhall keep the Teeth from all pain.</p>
+               </div>
+               <div type="remedy">
+                  <pb facs="tcp:36338:9" rendition="simple:additions"/>
+                  <head>For to draw a Thorn out of the Fleſh.</head>
+                  <p>Take a handfull of Bettony, bruiſe it in a Morter, then mixt it with Black ſoap, and it will draw out any thing that is got<g ref="char:EOLhyphen"/>ten deep into the fleſh.</p>
+               </div>
+               <div type="remedy">
+                  <head>For a Plurifie.</head>
+                  <p>Take two ounces of <hi>Dialthea,</hi> and an<g ref="char:EOLhyphen"/>noint the grieved place therewith; then take Cummin-ſeed beaten to fine pow<g ref="char:EOLhyphen"/>der, and ſtrew it upon the annointed place, then heat a Colewort leaf very hot upon coals; and bind it to the place very faſt, and you ſhall find a preſent cure.</p>
+               </div>
+               <div type="remedy">
+                  <head>For to cure a Dropſie.</head>
+                  <p>Take the roots of Elder, and boyl them in a gallon of ſpring water till it comes to a pottle, and drink it as common drink, and it will ſpeedily cure you.</p>
+               </div>
+               <div type="remedy">
+                  <head>For a Canker in the Mouth.</head>
+                  <p>Take the juyce of Plantain leaves, Vine<g ref="char:EOLhyphen"/>gar and water of Roſes, and waſh your mouth therewith.</p>
+               </div>
+               <div type="remedy">
+                  <pb facs="tcp:36338:10"/>
+                  <head>For ſpitting of Bloud.</head>
+                  <p>Take Smallage and Mints, Rue and Be<g ref="char:EOLhyphen"/>tony, and boyl them in good milk, and ſup it warm.</p>
+               </div>
+               <div type="remedy">
+                  <head>For a Pin and Web in the eye.</head>
+                  <p>Take the fine powder of Licorice blown through a quill into the eyes; it will take out the Pin or Web thereof.</p>
+               </div>
+               <div type="remedy">
+                  <head>For a ſcald Head.</head>
+                  <p>Take two handfuls of Harrife and ſtamp it a little; then let it ſoak in a quart of ſpring water twenty foure hours; then waſh your head therewith, or any ſcabby place with it, and it will quickly heal it.</p>
+               </div>
+               <div type="remedy">
+                  <head>For the Wormes in Children.</head>
+                  <p>Take the Gall of an Oxe, as much flower of Lupines as will thicken it, and make a plaiſter thereof, and lay it to the navel of the belly; it will kill the Wormes.</p>
+               </div>
+               <div type="remedy">
+                  <head>For to ſtop a Looſeneſs.</head>
+                  <p>Make Pap of Bean-flower, and put thereto powder of Cinnamon,</p>
+               </div>
+               <div type="remedy">
+                  <head>For to stay the bloudy Flux.</head>
+                  <p>Take Pigeons dung ſtamped with white Wine Vinegar, and applied plaiſter-wiſe to the navel of the belly ſtoppeth all Fluxes.</p>
+               </div>
+            </div>
+            <div type="part">
+               <pb facs="tcp:36338:10" rendition="simple:additions"/>
+               <head>Medicines for Cattel.</head>
+               <div type="remedy">
+                  <head>For the Plague in the guts in Horſes.</head>
+                  <p>TAke of Cullenbine roots and leaves, in all a good handful, as much Worm<g ref="char:EOLhyphen"/>wood, and as much Rue; waſh them well, and then bruiſe them in a morter, and then boyl them in a quart of Ale well; and then ſtrain them, and add to the liquor half a pound of ſweet butter; then, being but luke<g ref="char:EOLhyphen"/>warm, give it the Horſe to drink; or Dia<g ref="char:EOLhyphen"/>penthe in a pint of Muſcadine.</p>
+               </div>
+               <div type="remedy">
+                  <head>For the ſleeping Evil.</head>
+                  <p>Firſt keep him much waking, and twice in one week give him as much Soap in the na<g ref="char:EOLhyphen"/>ture of a pill as a Ducks egg, and then after give him a little new milk and honey, which is a preſent cure.</p>
+               </div>
+               <div type="remedy">
+                  <head>For the Scratches.</head>
+                  <p>Take a pint of Train oyl, and white bread beaten to powder, then mix them to<g ref="char:EOLhyphen"/>gether,
+<pb facs="tcp:36338:11"/>and annoint the Horſes legs there with, and chafe it in well, it will bring their legs to be ſmall, and dry up the humours.</p>
+               </div>
+               <div type="remedy">
+                  <head>For to make a Horſe ſtaile or piſs.</head>
+                  <p>Give him ſome Caſtle-ſoap ſliced thin in a pint of white Wine, and he will preſently piſs.</p>
+               </div>
+               <div type="remedy">
+                  <head>For the Glaunders.</head>
+                  <p>Take of <hi>Auris figmentum</hi> two drachms, of
+<hi>Tuſſilaginis</hi> made into powder as much, then mix them together with Turpentine till they be like paſte; make thereof little cakes; and dry them before the fire, then take a chafing-diſh of coals, and laying one or two of the cakes thereon, over them with a tun<g ref="char:EOLhyphen"/>nel, and then the ſmoak riſing, put the tun<g ref="char:EOLhyphen"/>nel in the Horſes noſtrils, and let the ſmoak go up into his head, which done, ride the Horſe till he ſweat; do thus every morning before he be watered, till the running of his noſtrils ceaſe, and the kernels under his chaps wear away.</p>
+               </div>
+               <div type="remedy">
+                  <head>For the foundring of his body.</head>
+                  <p>Firſt give him wholeſome ſtrong meat,
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> bread of clean beans, and warm drink; and
+<pb facs="tcp:36338:11" rendition="simple:additions"/>for two or three mornings together give him a quart of Ale brewed with Pepper and Cinnamon, and one ounce of
+<hi>London</hi> Trea<g ref="char:EOLhyphen"/>cle, and it will cure him.</p>
+               </div>
+               <div type="remedy">
+                  <head>For Bots and Wormes of all ſorts.</head>
+                  <p>Take Savory leaves chopt, and mix them with Honey and butter, and make two or three balls thereof, and make the Horſe ſwal<g ref="char:EOLhyphen"/>low them down, and it will cure him.</p>
+               </div>
+               <div type="remedy">
+                  <head>Of the pain of the Kidneys or the Stone.</head>
+                  <p>Take a handful of Ma<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>denhair, and ſte<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>p it all night in a quart of ſtrong Ale, and give it the Horſe to drink every morning till he be well, this will break any ſtone whatſoever in a Horſe.</p>
+               </div>
+               <div type="remedy">
+                  <head>For the gravelling of a horſe in the foot.</head>
+                  <p>Cut the hoof till you can find the ſore, then take one ounce of Virgins wax, one quarter of an ounce of Rozen, as much Dear Suet, half an ounce of Bores Greaſe, one head of Semgreen, bruiſe all theſe in a Morter, and ſet it over the fire till it be melted, then ap<g ref="char:EOLhyphen"/>ply it to the horſe foot, ſpare not to travaile him, for it ſhall heal him.</p>
+               </div>
+               <div type="remedy">
+                  <pb facs="tcp:36338:12"/>
+                  <head>For the Farcy or by ſome called the Farcion in a horſe.</head>
+                  <p>The farcy cometh of the great abundance of blood, therefore you muſt let him blood on both ſides of the Neck, a hand breadth from the head, then take a gallon of fair wa<g ref="char:EOLhyphen"/>ter, and put thereto a handfull of ſalt, three handfuls of Mallows, two handfuls of Rew, one pound of hempſeed, bruſe all in a mor<g ref="char:EOLhyphen"/>ter, then ſeeth them till the husk be wafted, and give it him to drink, then to the out<g ref="char:EOLhyphen"/>ward ſore apply one once of the oyle of Terpentine, one ounce of the oyle of Petre chafe it well in, and it cureth.</p>
+               </div>
+               <div type="remedy">
+                  <head>For a Canker in the Mouth.</head>
+                  <p>Take the inward Bark of an Elder Tree, Sage and Woodbine leaves, chop them ſmal, and boyle them in White wine vineger, and put therein a good quantity of Allum and Honey, then take a linnen Cloath and tie it upon a ſtick, and waſh his Mouth, Tongue, and Root, with the water, twice or thrice a day, and it will be whole ſpeedily.</p>
+               </div>
+               <div type="remedy">
+                  <pb facs="tcp:36338:12" rendition="simple:additions"/>
+                  <head>For wind-galls.</head>
+                  <p>The cure is to prick them, and to let out the Gelly, and then dry up the ſore with a plaſter of pitch.</p>
+               </div>
+               <div type="remedy">
+                  <head>To draw out a Stub or a Thorne.</head>
+                  <p>Take a handful of Bettony, bruiſe it in a morter with black ſoape, and lay it to the ſore, and it will draw out the Splint, Iron, Thorne or Stub.</p>
+               </div>
+               <div type="remedy">
+                  <head>For the Murrain in Cows, Oxen, or ſuch Cattle.</head>
+                  <p>Thoſe that are infected, firſt cut off the tip of the Eare, then take the leaves of Bares-foot dried and beaten to pouder, as much as will lye on a ſhilling, and a quart of milk, brew it together, and ſo drench therewith blood-warm.</p>
+               </div>
+               <div type="remedy">
+                  <head>To prevent the Murrain.</head>
+                  <p>Run a Bodkin through the double skin that hangeth at the breaſt of the beaſt, put therein a root of bares-foot, and let it abide.</p>
+                  <p>
+                     <pb facs="tcp:36338:13"/>Take of old
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ine a quart, and mix it with a handful of Hens-dung <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iſſolved therein, and let your beaſt drink it.</p>
+               </div>
+               <div type="remedy">
+                  <head>For Piſſing of Blood.</head>
+                  <p>Take two handfuls of Shephards purſe, and boyle it in a quart of Redwine, and then ſtrain it, and put into it a little Cinna<g ref="char:EOLhyphen"/>mon, and ſo give it the beaſt to drink luke<g ref="char:EOLhyphen"/>warme, and it will ſpeedily cure it.</p>
+               </div>
+               <div type="remedy">
+                  <head>For to cure any ſwelling in a Beaſt whatſoever.</head>
+                  <p>If your beaſt have any outward ſwelling bath it with ſalle<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> oyle and vineger exceed<g ref="char:EOLhyphen"/>ing hot, and it will aſſwage it, but if the ſwelling be inward, then boile round Ari<g ref="char:EOLhyphen"/>ſtolochia in his water:</p>
+               </div>
+            </div>
+            <argument>
+               <p>Theſe Receipts have been per<g ref="char:EOLhyphen"/>uſed and approved of by divers people in the City of <hi>London,</hi> and are Printed for the good and benefit of the Kingdome.</p>
+            </argument>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:36338:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
